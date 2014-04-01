@@ -1,4 +1,4 @@
-{% if selected %}<img src="/images/portraits/{{interview.slug}}.jpg" width="500" height="335" class="portrait" alt="{{interview.title}}">{% else %}<a href="http://{{interview.slug}}.usesthis.com/" title="View an interview with {{interview.title}}."><img src="/images/portraits/{{interview.slug}}.jpg" width="500" height="335" class="portrait" alt="{{interview.title}}"></a>{% endif %}
+{% if selected %}<img src="/images/portraits/{{interview.slug}}.jpg" width="500" height="335" class="portrait" alt="{{interview.title}}">{% else %}<a href="{{interview.url}}" title="View an interview with {{interview.title}}."><img src="/images/portraits/{{interview.slug}}.jpg" width="500" height="335" class="portrait" alt="{{interview.title}}"></a>{% endif %}
 
 <h2 class="person">{% if selected %}{{interview.title}}{% else %}<a href="{{interview.url}}" title="View an interview with {{interview.title}}.">{{interview.title}}</a>{% endif %}</h2>
 <p class="summary">{{interview.summary}}</p>
