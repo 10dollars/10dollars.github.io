@@ -1,0 +1,4 @@
+name: I Had Ten Dollars
+markdown: redcarpet
+pygments: true
+paginate: 5
