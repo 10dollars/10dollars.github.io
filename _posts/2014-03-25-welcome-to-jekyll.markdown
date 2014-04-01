@@ -4,7 +4,6 @@ slug: alex.payne
 title: "Alex Payne"
 summary: "Developer, API bitch at Twitter"
 categories: [developer, mac, web]
-date: 2014-03-25
 ---
 
 ### Who are you, and what do you do?
