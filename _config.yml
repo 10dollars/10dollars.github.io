@@ -1,4 +1,8 @@
-name: I Had Ten Dollars
-markdown: redcarpet
-pygments: true
-paginate: 5
+nmarkdown: kramdown
+permalink: interviews/:title.html
+exclude: [links, README.md, tasks, wares]
+paginate: 10
+url: http://localhost:4000
+
+kramdown:
+  auto_ids: false
