@@ -1,7 +1,7 @@
 ---
 layout: interview
-slug: ryan.wolf
-title: Ryan Wolf - Is Ryan At The Office
+slug: greg.leppert
+title: Greg Leppert - Reading.am
 summary: Founder of Reading.am. Co-founder of Svpply. Reads a lot.
 categories: [reading, community]
 ---
