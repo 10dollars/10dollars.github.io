@@ -2,7 +2,7 @@ markdown: kramdown
 permalink: interviews/:title.html
 exclude: [links, README.md, tasks, wares]
 paginate: 10
-url: http://ihadtendollars.com
+url: http://localhost:4000
 
 kramdown:
   auto_ids: false
