@@ -8,7 +8,17 @@
     <title>I Had Ten Dollars</title>
     <link>http://ihadtendollars.com</link>
     <description>RSS feed for I Had Ten Dollars</description>
-    <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
+    <pubDate>Sat, 21 Mar 2015 00:00:00 -0700</pubDate>
+    <item>
+      <title>Joanne McNeil - Emotional Labor Extension</title>
+      <link>http://ihadtendollars.com/interviews/joanne-mcneil.html</link>
+      <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/jomc&quot;&gt;Joanne McNeil&lt;/a&gt;’s Emotional Labor Extension is a bit different than the projects I normally post about here because it’s already well documented. She wrote a &lt;a href=&quot;https://medium.com/message/canned-email-eb6f4ba843d9&quot;&gt;fantastic post about it&lt;/a&gt; that resonated with me, and I think will resonate with anyone who sends email even semi-regularly. Reading about her anxiety sending personal emails and trying to compensate for the form’s limitations in expression I was reminded of the time a coworker put five exclamation points in a reply-all email to our CEO and a collegue stopped by her desk and said, “Dang, you sounded maaaad.” &lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 21 Mar 2015 00:00:00 -0700</pubDate>
+      <guid>http://ihadtendollars.com/interviews/joanne-mcneil.html</guid>
+      <dc:date>2015-03-21T00:00:00-07:00</dc:date>
+    </item>
     <item>
       <title>Katie Rose Pipkin &amp; Loren Schmidt - infloresence.city</title>
       <link>http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html</link>
@@ -211,6 +221,6 @@
       <guid>http://ihadtendollars.com/interviews/ryan-wolf.html</guid>
       <dc:date>2014-04-05T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2015-02-26T00:00:00-08:00</dc:date>
+    <dc:date>2015-03-21T00:00:00-07:00</dc:date>
   </channel>
 </rss>
